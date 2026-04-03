@@ -43,7 +43,7 @@
   <div class="row align-items-start">
     <div class="col-6">
       <img src="kucing.png" alt="Gambar Kucing">
-      <a href="login.php" class="btn btn-primary" type="submit">Informasi lebih lanjut</a>
+      <a href="https://wolipop.detik.com/home/d-5180681/15-jenis-kucing-peliharaan-yang-populer-menggemaskan-dan-mudah-dirawat" class="btn btn-primary" type="submit">Informasi lebih lanjut</a>
     </div>
 
     <div class="col-6">
